@@ -1,0 +1,65 @@
+body{
+	background: #1AEFBF
+}
+
+.div2{
+	text-align: center;
+	color: #b695c0
+}
+
+h1{
+	font-family: cursive;
+}
+
+
+
+.div1{
+	text-align: center;
+	font-family: cursive;
+	color: black
+}
+
+/*img{
+	width: 200px;
+	height: 200px;
+}*/
+
+.div3{
+	text-align: center;
+	transform: rotate(0deg);
+	background-image: url(imagens/hert2.png);
+	background-repeat: repeat-x;
+	background-size: 50px;
+
+}
+
+.div4{
+	text-align: center;
+}
+
+h2{
+	font-family: cursive;
+}
+
+a{
+	color: #b695c0
+}
+
+.amor{
+	background-image: url(imagens/rope.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+p{
+
+	font-family: cursive;
+	text-align: center;
+
+}
+
+video{
+	text-align: center;
+}
+
+
